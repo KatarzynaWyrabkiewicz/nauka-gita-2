@@ -1,0 +1,11 @@
+/* Global */ 
+
+body {
+    font-size: 16px;
+    color: #2c2c54;
+    margin: 10px;
+}
+
+.verse {
+    margin-bottom: 25px;
+}
